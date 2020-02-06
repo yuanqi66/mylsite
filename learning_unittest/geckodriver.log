@@ -1,0 +1,76 @@
+1581007268197	geckodriver	INFO	geckodriver 0.21.0
+1581007268225	geckodriver	INFO	Listening on 127.0.0.1:55800
+1581007268745	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yuanqi\\AppData\\Local\\Temp\\rust_mozprofile.IWc6OUa0fb95"
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581007270406	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 26088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26364, Chrome_Ch1581007272632	Marionette	INFO	Listening on port 55805
+1581007272876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581007272930	Marionette	DEBUG	Register listener.js for window 4294967297
+1581007272958	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581007273224	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1581007273225	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1581007273695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581007273877	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581007274358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1581007276367	Marionette	DEBUG	Received DOM event "beforeunload" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dselenium%26rsv_pq%3De031b877004767b6%26rsv_t%3D16c7OKB7cbl6lc71DAR8O95GF2jXHKSNHHOg8HBob2QzWgZgI7FFDLuLiAg%26rqlang%3Dcn%26rsv_dl%3Dtb%26rsv_enter%3D0%26rsv_sug3%3D8%26inputT%3D205%26rsv_sug4%3D205%26rsv_jmp%3Dfail&logid=11011328251680908926&signature=d69c93e7db00daa7cf0f0caae10ff2e8&timestamp=1581007275"
+1581007276414	Marionette	DEBUG	Received DOM event "pagehide" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dselenium%26rsv_pq%3De031b877004767b6%26rsv_t%3D16c7OKB7cbl6lc71DAR8O95GF2jXHKSNHHOg8HBob2QzWgZgI7FFDLuLiAg%26rqlang%3Dcn%26rsv_dl%3Dtb%26rsv_enter%3D0%26rsv_sug3%3D8%26inputT%3D205%26rsv_sug4%3D205%26rsv_jmp%3Dfail&logid=11011328251680908926&signature=d69c93e7db00daa7cf0f0caae10ff2e8&timestamp=1581007275"
+1581007276414	Marionette	DEBUG	Received DOM event "unload" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dselenium%26rsv_pq%3De031b877004767b6%26rsv_t%3D16c7OKB7cbl6lc71DAR8O95GF2jXHKSNHHOg8HBob2QzWgZgI7FFDLuLiAg%26rqlang%3Dcn%26rsv_dl%3Dtb%26rsv_enter%3D0%26rsv_sug3%3D8%26inputT%3D205%26rsv_sug4%3D205%26rsv_jmp%3Dfail&logid=11011328251680908926&signature=d69c93e7db00daa7cf0f0caae10ff2e8&timestamp=1581007275"
+1581007276578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581007276683	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581007276933	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=unittest&rsv_pq=b4861237004932e7&rsv_t=bba38cf%2Fx9JIbz%2F0WvIdDeLZ9dBqW8nKvNjBMCPFW1ffijUXt8gEWZWyPaQ&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=160&rsv_sug4=160"
+1581007276974	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=unittest&rsv_pq=b4861237004932e7&rsv_t=bba38cf%2Fx9JIbz%2F0WvIdDeLZ9dBqW8nKvNjBMCPFW1ffijUXt8gEWZWyPaQ&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=160&rsv_sug4=160"
+1581007276975	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=unittest&rsv_pq=b4861237004932e7&rsv_t=bba38cf%2Fx9JIbz%2F0WvIdDeLZ9dBqW8nKvNjBMCPFW1ffijUXt8gEWZWyPaQ&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=160&rsv_sug4=160"
+1581007277032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dunittest%26rsv_pq%3Db4861237004932e7%26rsv_t%3Dbba38cf%252Fx9JIbz%252F0WvIdDeLZ9dBqW8nKvNjBMCPFW1ffijUXt8gEWZWyPaQ%26rqlang%3Dcn%26rsv_enter%3D0%26rsv_dl%3Dtb%26rsv_sug3%3D8%26inputT%3D160%26rsv_sug4%3D160%26rsv_jmp%3Dfail&logid=8765127614399975441&signature=dcca5e70a7ec97b1df41609babc21c45&timestamp=1581007278"
+1581007277080	Marionette	DEBUG	Received DOM event "pageshow" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dunittest%26rsv_pq%3Db4861237004932e7%26rsv_t%3Dbba38cf%252Fx9JIbz%252F0WvIdDeLZ9dBqW8nKvNjBMCPFW1ffijUXt8gEWZWyPaQ%26rqlang%3Dcn%26rsv_enter%3D0%26rsv_dl%3Dtb%26rsv_sug3%3D8%26inputT%3D160%26rsv_sug4%3D160%26rsv_jmp%3Dfail&logid=8765127614399975441&signature=dcca5e70a7ec97b1df41609babc21c45&timestamp=1581007278"
+[Parent 26088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26452, Chrome_ChildThread] WARNING: p[Parent 26088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581007299745	geckodriver	INFO	geckodriver 0.21.0
+1581007299773	geckodriver	INFO	Listening on 127.0.0.1:55883
+1581007300287	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yuanqi\\AppData\\Local\\Temp\\rust_mozprofile.T0fwkw42Ijn0"
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581007301814	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21556, Chrome_ChildThreUnable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581007303777	Marionette	INFO	Listening on port 55890
+1581007303910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581007303964	Marionette	DEBUG	Register listener.js for window 4294967297
+1581007303987	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1581007304268	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1581007304268	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1581007304645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581007304776	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581007305231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1581007307240	Marionette	DEBUG	Received DOM event "beforeunload" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dselenium%26rsv_pq%3De62eb6f50044a6bd%26rsv_t%3Db75bUEkLFhJtk8rshCwmC1q9vp%252BX2R867vCLmAmHW%252Fyr0lxL9bQ7oY5mg3M%26rqlang%3Dcn%26rsv_dl%3Dtb%26rsv_enter%3D0%26rsv_sug3%3D8%26inputT%3D183%26rsv_sug4%3D183%26rsv_jmp%3Dfail&logid=10411335210143692816&signature=c143f7529bdf88276b918f573bde3181&timestamp=1581007306"
+1581007307307	Marionette	DEBUG	Received DOM event "pagehide" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dselenium%26rsv_pq%3De62eb6f50044a6bd%26rsv_t%3Db75bUEkLFhJtk8rshCwmC1q9vp%252BX2R867vCLmAmHW%252Fyr0lxL9bQ7oY5mg3M%26rqlang%3Dcn%26rsv_dl%3Dtb%26rsv_enter%3D0%26rsv_sug3%3D8%26inputT%3D183%26rsv_sug4%3D183%26rsv_jmp%3Dfail&logid=10411335210143692816&signature=c143f7529bdf88276b918f573bde3181&timestamp=1581007306"
+1581007307307	Marionette	DEBUG	Received DOM event "unload" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dselenium%26rsv_pq%3De62eb6f50044a6bd%26rsv_t%3Db75bUEkLFhJtk8rshCwmC1q9vp%252BX2R867vCLmAmHW%252Fyr0lxL9bQ7oY5mg3M%26rqlang%3Dcn%26rsv_dl%3Dtb%26rsv_enter%3D0%26rsv_sug3%3D8%26inputT%3D183%26rsv_sug4%3D183%26rsv_jmp%3Dfail&logid=10411335210143692816&signature=c143f7529bdf88276b918f573bde3181&timestamp=1581007306"
+1581007307411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581007307467	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581007307653	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=unittest&rsv_pq=ff98310a000a7f4f&rsv_t=310dZrPLL98NHBYIKQyiQvW4cozDRZaLiQ4%2FD1XAxa%2BiMYn9R1LyZ9KbzKE&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=127&rsv_sug4=127"
+1581007307680	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=unittest&rsv_pq=ff98310a000a7f4f&rsv_t=310dZrPLL98NHBYIKQyiQvW4cozDRZaLiQ4%2FD1XAxa%2BiMYn9R1LyZ9KbzKE&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=127&rsv_sug4=127"
+1581007307681	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=unittest&rsv_pq=ff98310a000a7f4f&rsv_t=310dZrPLL98NHBYIKQyiQvW4cozDRZaLiQ4%2FD1XAxa%2BiMYn9R1LyZ9KbzKE&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=127&rsv_sug4=127"
+1581007307734	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dunittest%26rsv_pq%3Dff98310a000a7f4f%26rsv_t%3D310dZrPLL98NHBYIKQyiQvW4cozDRZaLiQ4%252FD1XAxa%252BiMYn9R1LyZ9KbzKE%26rqlang%3Dcn%26rsv_enter%3D0%26rsv_dl%3Dtb%26rsv_sug3%3D8%26inputT%3D127%26rsv_sug4%3D127%26rsv_jmp%3Dfail&logid=8973641490614101632&signature=63c49c25ee1327297aad922ae583f987&timestamp=1581007308"
+1581007307778	Marionette	DEBUG	Received DOM event "pageshow" for "https://wappass.baidu.com/static/captcha/tuxing.html?&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fie%3Dutf-8%26f%3D8%26rsv_bp%3D1%26rsv_idx%3D1%26tn%3Dbaidu%26wd%3Dunittest%26rsv_pq%3Dff98310a000a7f4f%26rsv_t%3D310dZrPLL98NHBYIKQyiQvW4cozDRZaLiQ4%252FD1XAxa%252BiMYn9R1LyZ9KbzKE%26rqlang%3Dcn%26rsv_enter%3D0%26rsv_dl%3Dtb%26rsv_sug3%3D8%26inputT%3D127%26rsv_sug4%3D127%26rsv_jmp%3Dfail&logid=8973641490614101632&signature=63c49c25ee1327297aad922ae583f987&timestamp=1581007308"
+[Parent 11520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19796, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

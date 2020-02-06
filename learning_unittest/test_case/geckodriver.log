@@ -1,0 +1,118 @@
+1581003281039	geckodriver	INFO	geckodriver 0.21.0
+1581003281073	geckodriver	INFO	Listening on 127.0.0.1:52355
+1581003281579	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yuanqi\\AppData\\Local\\Temp\\rust_mozprofile.WE69dYkGdiw6"
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581003282334	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2744, Chrome_ChildThread]Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581003284271	Marionette	INFO	Listening on port 52361
+1581003284702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581003284749	Marionette	DEBUG	Register listener.js for window 4294967297
+1581003284768	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1581003284883	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1581003284883	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1581003285213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581003285328	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581003285793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 15264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15264, Chrome_ChildThread] W[Parent 17384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15652, Chrome_Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581003289087	geckodriver	INFO	geckodriver 0.21.0
+1581003289114	geckodriver	INFO	Listening on 127.0.0.1:52431
+1581003289615	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yuanqi\\AppData\\Local\\Temp\\rust_mozprofile.QGJgBuX0I7VU"
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581003290379	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1581003292178	Marionette	INFO	Listening on port 52436
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581003292239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581003292298	Marionette	DEBUG	Register listener.js for window 4294967297
+1581003292343	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1581003292456	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1581003292456	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1581003292944	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581003293133	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581003293551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 22516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21228, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581003443573	geckodriver	INFO	geckodriver 0.21.0
+1581003443598	geckodriver	INFO	Listening on 127.0.0.1:52584
+1581003444122	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yuanqi\\AppData\\Local\\Temp\\rust_mozprofile.OeIY6MxwlMjb"
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581003444766	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26268, ChroUnable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581003446093	Marionette	INFO	Listening on port 52590
+1581003446169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581003446226	Marionette	DEBUG	Register listener.js for window 4294967297
+1581003446309	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1581003446437	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1581003446438	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1581003446721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581003446848	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581003447204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1581003449212	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&rsv_pq=9567daac0021577c&rsv_t=430453thyLizDLSpfEw6jFQEUMgAltYaDcmidqpZYVcdH0tFIHE%2Fg6sfkI4&rqlang=cn&rsv_dl=tb&rsv_enter=0&rsv_sug3=8&inputT=131&rsv_sug4=132"
+1581003449273	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&rsv_pq=9567daac0021577c&rsv_t=430453thyLizDLSpfEw6jFQEUMgAltYaDcmidqpZYVcdH0tFIHE%2Fg6sfkI4&rqlang=cn&rsv_dl=tb&rsv_enter=0&rsv_sug3=8&inputT=131&rsv_sug4=132"
+1581003449275	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&rsv_pq=9567daac0021577c&rsv_t=430453thyLizDLSpfEw6jFQEUMgAltYaDcmidqpZYVcdH0tFIHE%2Fg6sfkI4&rqlang=cn&rsv_dl=tb&rsv_enter=0&rsv_sug3=8&inputT=131&rsv_sug4=132"
+1581003449399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581003449448	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581003449777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 25624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23276, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581003488031	geckodriver	INFO	geckodriver 0.21.0
+1581003488057	geckodriver	INFO	Listening on 127.0.0.1:52696
+1581003498597	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yuanqi\\AppData\\Local\\Temp\\rust_mozprofile.Y26zWz8r75eE"
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581003499244	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23648, ChrUnable to read VR Path Registry from C:\Users\yuanqi\AppData\Local\openvr\openvrpaths.vrpath
+1581003500635	Marionette	INFO	Listening on port 52701
+1581003500720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581003500768	Marionette	DEBUG	Register listener.js for window 4294967297
+1581003500816	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1581003501125	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1581003501125	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1581003501383	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581003501485	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581003501861	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1581003503867	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&rsv_pq=cfeefbf0001e4fc1&rsv_t=20141o6LccwZOFEzEKOd2BLqCbW3Q73dH10wAfn%2FWcGEMu4C3iKcDPf4sEI&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=137&rsv_sug4=137"
+1581003503934	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&rsv_pq=cfeefbf0001e4fc1&rsv_t=20141o6LccwZOFEzEKOd2BLqCbW3Q73dH10wAfn%2FWcGEMu4C3iKcDPf4sEI&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=137&rsv_sug4=137"
+1581003503935	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=selenium&rsv_pq=cfeefbf0001e4fc1&rsv_t=20141o6LccwZOFEzEKOd2BLqCbW3Q73dH10wAfn%2FWcGEMu4C3iKcDPf4sEI&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_sug3=8&inputT=137&rsv_sug4=137"
+1581003504039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1581003504080	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1581003504411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 26368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26368, Chrome_ChildThread] WARNIN*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
