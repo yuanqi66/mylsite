@@ -4,6 +4,7 @@ from selenium import webdriver
 
 
 class TestBaiDu(unittest.TestCase):
+    """百度搜索测试"""
 
     @classmethod
     def setUpClass(cls):
@@ -16,12 +17,14 @@ class TestBaiDu(unittest.TestCase):
         self.driver.find_element_by_id("su").click()
 
     def test_search_key_selenium(self):
+        """搜索关键字：selenium"""
         self.baidu_search("selenium")
         sleep(2)
         title = self.driver.title
         self.assertEqual(title, "selenium_百度搜索")
 
     def test_search_key_unittest(self):
+        """搜索关键字：unittest"""
         self.baidu_search("unittest")
         sleep(2)
         title = self.driver.title
