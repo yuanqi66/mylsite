@@ -11,7 +11,7 @@ if __name__ == '__main__':
 	fp = open('./test_report/result.html', 'wb')
 	"""
 	stream：指定生成HTML测试报告的文件，必填
-	verbosity：指定日志级别，012
+	verbosity：指定日志级别，012三个级别
 	title：指定测试用例的标题，默认为None
 	description：指定测试用例的描述，默认为None
 	"""
