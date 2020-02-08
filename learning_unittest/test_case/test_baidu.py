@@ -12,6 +12,7 @@ class TestBaiDu(unittest.TestCase):
         cls.base_url = "https://www.baidu.com"
 
     def baidu_search(self, search_key):
+        """搜索关键字"""
         self.driver.get(self.base_url)
         self.driver.find_element_by_id("kw").send_keys(search_key)
         self.driver.find_element_by_id("su").click()
